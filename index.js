@@ -1,3 +1,3 @@
-console.log(123)
-console.log(123)
-console.log(abc)
+function add(a,b){
+    return a+b;
+}
